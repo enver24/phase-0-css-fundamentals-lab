@@ -3,3 +3,67 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+.centre {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a.about {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+a.newProperties {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+a.listings {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+a.marketReport {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+a.contact {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+a.hud {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+
+#details div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
